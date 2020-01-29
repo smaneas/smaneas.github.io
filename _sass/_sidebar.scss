@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
 
     @include breakpoint($large) {
       padding: 5px;
@@ -166,7 +166,7 @@
   padding: 10px;
   list-style-type: none;
   border: 1px solid $border-color;
-  border-radius: $border-radius;
+  /* border-radius: $border-radius; */
   background: #fff;
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
