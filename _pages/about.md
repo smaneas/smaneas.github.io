@@ -16,6 +16,5 @@ redirect_from:
 Bahen Centre for Information Technology<br/>
 Room 5214<br/>
 40 St. George Street<br/>
-Toronto, ON, M5S2E4, Canada<br/><br/>
-
-<b>Email</b>: smaneas [at] cs [dot] toronto [dot] edu
+Toronto, ON, M5S2E4, Canada<br/>
+<i>Email:</i> smaneas [at] cs [dot] toronto [dot] edu
