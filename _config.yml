@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sotirios Efstathios (Stathis) Maneas"
+title                    : "Stathis Maneas"
 title_separator          : "-"
 name                     : &name "Sotirios Efstathios (Stathis) Maneas"
 description              : &description "PhD Candidate at the University of Toronto"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Stathis Maneas"
-  avatar           : "profile.png"
+  avatar           : "myphoto.jpg"
   bio              : "PhD Candidate"
   location         :
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "smaneas"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
