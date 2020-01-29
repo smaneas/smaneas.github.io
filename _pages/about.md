@@ -18,3 +18,9 @@ Room 5214<br/>
 40 St. George Street<br/>
 Toronto, ON, M5S2E4, Canada<br/>
 <i>Email:</i> smaneas [at] cs [dot] toronto [dot] edu
+
+<hr>
+
+<h2>Publications</h2>
+<a name="publications"></a>
+Full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
