@@ -326,12 +326,14 @@
   margin-left: .3em;
 }
 
-#publs {
+#custom-text-style {
+  text-align: justify;
   font-size: 14px;
+  margin-right: 10px;
 }
-#publs li {
+#custom-text-style li {
   margin-top: 10px;
 }
-#publs li:first-child {
+#custom-text-style li:first-child {
   margin-top:0;
 }
