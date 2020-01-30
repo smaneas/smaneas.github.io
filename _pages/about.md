@@ -13,7 +13,7 @@ redirect_from:
 
 <p>My current research focuses on the design and implementation of computer systems, especially large scale systems and storage systems, while focusing on their reliability aspect.</p>
 
-<h3>Contact Info</h3>
+<h2>Contact Info</h2>
 Bahen Centre for Information Technology<br/>
 Room 5214<br/>
 40 St. George Street<br/>
@@ -23,12 +23,12 @@ Toronto, ON, M5S2E4, Canada<br/>
 
 <hr>
 
-<h2>Publications</h2>
+<h1>Publications</h1>
 <a name="publications"></a>
 <div id="custom-text-style">
 Full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
-<h3>Selected Publications</h3>
+<h2>Selected Publications</h2>
   <ul>
     <li>
     <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to Appear in the 18th USENIX Conference on File and Storage Technologies (FAST 20), 2020.<br/>
