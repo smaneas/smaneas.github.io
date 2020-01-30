@@ -325,3 +325,11 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+#publs li {
+  margin-top: 10px;
+}
+
+#publs li:first-child {
+  margin-top:0;
+}
