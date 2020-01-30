@@ -326,10 +326,12 @@
   margin-left: .3em;
 }
 
+#publs {
+  font-size: 14px;
+}
 #publs li {
   margin-top: 10px;
 }
-
 #publs li:first-child {
   margin-top:0;
 }

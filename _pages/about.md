@@ -26,11 +26,10 @@ Toronto, ON, M5S2E4, Canada<br/>
 Full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 <h3>Selected Publications</h3>
-<p style="text-align: justify">
 <div id="publs">
   <ul>
     <li>
-    <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, <i>"A Study of {SSD} Reliability in Large Scale Enterprise Storage Deployments"</i>, to Appear in the 18th USENIX Conference on File and Storage Technologies (FAST 20), 2020.<br/>
+    <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, to Appear in the 18th USENIX Conference on File and Storage Technologies (FAST 20), 2020.<br/>
     [<a href="https://www.usenix.org/conference/fast20/presentation/maneas" target="_blank">Paper</a>]
     [<a href="files/bibtex_fast2020">Bibtex</a>]
     </li>
@@ -38,7 +37,7 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
     <li>
       Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, <i>"Evaluating File System Reliability on Solid State Drives"</i>, USENIX Annual Technical Conference (ATC '19), 2019.<br/>
       [<a href="https://www.usenix.org/conference/atc19/presentation/jaffer" target="_blank">Paper</a>]
-      [<a href="files/bibtex_atc19">Bibtex</a><br/><br/>]
+      [<a href="files/bibtex_atc19">Bibtex</a>]<br/><br/>
       Our device mapper module can be downloaded from <a href="https://github.com/uoftsystems/dm-inject" target="_blank">here</a>.
     </li>
     <li>
@@ -62,10 +61,8 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
     <li>
       Panos Diamantopoulos, <b>Stathis Maneas</b>, Christos Patsonakis, Nikos Chondros, Mema Roussopoulos, <i>"Interactive Consistency in practical, mostly-asynchronous systems"</i>, in the Proceedings of the 21st IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2015.<br/>
       [<a href="https://ieeexplore.ieee.org/document/7384362" target="_blank">Paper</a>]
-      [<a href="files/bibtex_icpads15">Bibtex</a><br/><br/>]
-      Our open-source software can be downloaded from here:<br/>
-      <a href="https://github.com/dsg-di/" target="_blank">Interactive Consistency Protocol Stack.</a>
+      [<a href="files/bibtex_icpads15">Bibtex</a>]<br/><br/>
+      Our open-source software can be downloaded from <a href="https://github.com/dsg-di/" target="_blank">here</a>.
     </li>
   </ul>
 </div>
-</p>
