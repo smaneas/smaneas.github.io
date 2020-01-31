@@ -1,0 +1,9 @@
+@article{chondros2019distributed,
+  title={Distributed, end-to-end verifiable, and privacy-preserving internet voting systems},
+  author={Chondros, Nikos and Zhang, Bingsheng and Zacharias, Thomas and Diamantopoulos, Panos and Maneas, Stathis and Patsonakis, Christos and Delis, Alex and Kiayias, Aggelos and Roussopoulos, Mema},
+  journal={computers \& security},
+  volume={83},
+  pages={268--299},
+  year={2019},
+  publisher={Elsevier}
+}

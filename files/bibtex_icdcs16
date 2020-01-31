@@ -1,0 +1,8 @@
+@inproceedings{chondros2016d,
+  title={D-DEMOS: A distributed, end-to-end verifiable, internet voting system},
+  author={Chondros, Nikos and Zhang, Bingsheng and Zacharias, Thomas and Diamantopoulos, Panos and Maneas, Stathis and Patsonakis, Christos and Delis, Alex and Kiayias, Aggelos and Roussopoulos, Mema},
+  booktitle={2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS)},
+  pages={711--720},
+  year={2016},
+  organization={IEEE}
+}

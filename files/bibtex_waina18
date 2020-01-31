@@ -1,0 +1,8 @@
+@inproceedings{maneas2018evolution,
+  title={The evolution of the hadoop distributed file system},
+  author={Maneas, Stathis and Schroeder, Bianca},
+  booktitle={2018 32nd International Conference on Advanced Information Networking and Applications Workshops (WAINA)},
+  pages={67--74},
+  year={2018},
+  organization={IEEE}
+}
