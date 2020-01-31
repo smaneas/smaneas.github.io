@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div id="custom-text-style">
-<p>I am a PhD Candidate in the Department of Computer Science at the University of Toronto. I am a member of the Computer Systems and Networks group, and my advisor is Professor Bianca Schroeder.</p>
+<p>I am a PhD Candidate in the <a href="https://web.cs.toronto.edu/" target="_blank">Department of Computer Science</a> at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am a member of the <a href="http://csng.cs.toronto.edu/index.php" target="_blank">Computer Systems and Networks group</a>, and my advisor is <a href="https://www.cs.utoronto.ca/~bianca/" target="_blank">Professor Bianca Schroeder</a>.</p>
 
 <p>My current research focuses on the design and implementation of computer systems, especially large scale systems and storage systems, while focusing on their reliability aspect.</p>
 
@@ -23,8 +23,23 @@ Toronto, ON, M5S2E4, Canada<br/>
 
 <hr>
 
-<h1>Publications</h1>
+<a name="education"></a>
+<h1>Education</h1>
+<div id="custom-text-style">
+<ul>
+  <li>
+    M.Sc., Computer Science, National and Kapodistrian University of Athens, 2015.<br/>
+  </li>
+  <li>
+    B.Sc., Computer Science, National and Kapodistrian University of Athens, 2012.<br/>
+  </li>
+</ul>
+</div>
+
+<hr>
+
 <a name="publications"></a>
+<h1>Publications</h1>
 <div id="custom-text-style">
 Full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
@@ -67,4 +82,84 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
       Our open-source software can be downloaded from <a href="https://github.com/dsg-di/" target="_blank">here</a>.
     </li>
   </ul>
+</div>
+
+<hr>
+
+<a name="employment"></a>
+<h1>Employment</h1>
+<div id="custom-text-style">
+<ul>
+  <li>
+    <b>Graduate Research Assistant</b> (September 2015 - Present)<br/>
+    Computer Systems and Networks Group<br/>
+    Dept. of Computer Science, University of Toronto.
+  </li>
+  <li>
+    <b>Graduate Teaching Assistant (TA)</b> (September 2015 - Present)<br/>
+    Dept. of Computer Science, University of Toronto.
+  </li>
+  <li>
+    <b>Research Assistant</b> (August 2013 - July 2015)<br/>
+    ERC project: <i>"Protecting and Preserving Human Knowledge for Posterity"</i><br/>
+    National and Kapodistrian University of Athens.
+  </li>
+  <li>
+    <b>Software Engineer</b> (September 2012 - May 2013)<br/>
+    National and Kapodistrian University of Athens.
+  </li>
+</ul>
+</div>
+
+<hr>
+
+<a name="teaching"></a>
+<h1>Teaching</h1>
+<div id="custom-text-style">
+<h2>University of Toronto, St. George Campus</h2>
+<ul>
+  <li>
+    <b>CSC209H: Software Tools and Systems Programming.</b><br/>
+    Fall 2015, 2016, 2017, 2018, 2019<br/>
+    Winter 2016 (Double TAship), 2018, 2019, 2020<br/>
+    Summer 2018, 2019<br/>
+  </li>
+  <li>
+    <b>CSC469H/CSC2208H: Operating Systems Design and Implementation.</b><br/>
+    Fall 2017
+  </li>
+  <li>
+    <b>Help Centre Teaching Assistant, Computer Science Help Centre.</b><br/>
+    Fall 2016
+  </li>
+</ul>
+
+<h2>University of Toronto Scarborough</h2>
+<ul>
+  <li>
+    <b>CSCB09H: Software Tools and Systems Programming.</b><br/>
+    Winter 2017 (Double TAship)<br/>
+    Summer 2017 (Double TAship)
+  </li>
+</ul>
+
+<h2>National and Kapodistrian University of Athens</h2>
+<ul>
+  <li>
+    <b>Systems Programming.</b><br/>
+    Winter 2013, 2014, 2015
+  </li>
+  <li>
+    <b>Operating Systems.</b><br/>
+    Fall 2013
+  </li>
+  <li>
+    <b>Introduction to Programming.</b><br/>
+    Fall 2012, 2013
+  </li>
+  <li>
+    <b>Object Oriented Programming.</b><br/>
+    Fall 2012
+  </li>
+</ul>
 </div>

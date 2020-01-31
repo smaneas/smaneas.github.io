@@ -1,4 +1,12 @@
 # main links links
 main:
+  - title: "Education"
+    url: /#education
   - title: "Publications"
     url: /#publications
+  - title: "Employment"
+    url: /#employment
+  - title: "Teaching"
+    url: /#teaching
+  - title: "CV"
+    url: /files/Curriculum_Vitae_SEManeas.pdf
