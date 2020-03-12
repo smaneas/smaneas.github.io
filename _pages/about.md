@@ -11,7 +11,7 @@ redirect_from:
 <div id="custom-text-style">
 <p>I am a PhD Candidate in the <a href="https://web.cs.toronto.edu/" target="_blank">Department of Computer Science</a> at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am a member of the <a href="http://csng.cs.toronto.edu/index.php" target="_blank">Computer Systems and Networks group</a>, and my advisor is <a href="https://www.cs.utoronto.ca/~bianca/" target="_blank">Professor Bianca Schroeder</a>.</p>
 
-<p>My current research focuses on the design and implementation of computer systems, especially large scale systems and storage systems, while focusing on their reliability aspect.</p>
+<p>My research interests include the design and implementation of computer systems, especially storage and file systems, and distributed systems. My current research focuses on the reliability aspect of systems.</p>
 
 <h2>Contact Info</h2>
 Bahen Centre for Information Technology<br/>
@@ -46,13 +46,17 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h2>Selected Publications</h2>
   <ul>
     <li>
-    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to Appear in the 18th USENIX Conference on File and Storage Technologies (FAST 20), 2020.<br/>
+    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in USENIX ;login:, 2020.<br/>
+    </li>
+
+    <li>
+    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, in the 18th USENIX Conference on File and Storage Technologies (FAST '20), 2020. <b><font color="red">Best Paper Award!</font></b> (Acc. Rate: 16.7%)<br/>
     [<a href="https://www.usenix.org/conference/fast20/presentation/maneas" target="_blank">Paper</a>]
     [<a href="/files/bibtex_fast2020">Bibtex</a>]
     </li>
 
     <li>
-      <i>"Evaluating File System Reliability on Solid State Drives"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, USENIX Annual Technical Conference (ATC '19), 2019.<br/>
+      <i>"Evaluating File System Reliability on Solid State Drives"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, USENIX Annual Technical Conference (ATC '19), 2019. (Acc. Rate: 19.9%)<br/>
       [<a href="https://www.usenix.org/conference/atc19/presentation/jaffer" target="_blank">Paper</a>]
       [<a href="/files/bibtex_atc19">Bibtex</a>]<br/><br/>
       Our device mapper module can be downloaded from <a href="https://github.com/uoftsystems/dm-inject" target="_blank">here</a>.
