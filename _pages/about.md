@@ -46,13 +46,18 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h2>Selected Publications</h2>
   <ul>
     <li>
-    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in USENIX ;login:, 2020.<br/>
+      <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in USENIX ;login:, 2020. <b><font color="red">Invited Publication!</font></b><br/>
     </li>
 
     <li>
-    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, in the 18th USENIX Conference on File and Storage Technologies (FAST '20), 2020. <b><font color="red">Best Paper Award!</font></b> (Acc. Rate: 16.7%)<br/>
-    [<a href="https://www.usenix.org/conference/fast20/presentation/maneas" target="_blank">Paper</a>]
-    [<a href="/files/bibtex_fast2020">Bibtex</a>]
+      <i>"The Reliability of Modern File Systems in the face of SSD Errors"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, to appear in the ACM Transactions on Storage (TOS), 2020. <b><font color="red">Invited Publication!</font></b><br/>
+    </li>
+
+    <li>
+      <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, in the 18th USENIX Conference on File and Storage Technologies (FAST '20), 2020. <b><font color="red">Best Paper Award!</font></b> (Acc. Rate: 16.7%)<br/>
+      [<a href="https://www.usenix.org/conference/fast20/presentation/maneas" target="_blank">Paper</a>]
+      [<a href="/files/bibtex_fast2020">Bibtex</a>]<br/><br/>
+      Article on ZDNet by Robin Harris: <a href="https://www.zdnet.com/article/ssd-reliability-in-the-enterprise/" target="_blank">SSD reliability in the enterprise: This survey yields a few surprises</a>.
     </li>
 
     <li>
@@ -60,17 +65,6 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
       [<a href="https://www.usenix.org/conference/atc19/presentation/jaffer" target="_blank">Paper</a>]
       [<a href="/files/bibtex_atc19">Bibtex</a>]<br/><br/>
       Our device mapper module can be downloaded from <a href="https://github.com/uoftsystems/dm-inject" target="_blank">here</a>.
-    </li>
-    <li>
-      <i>"Distributed, End-to-end Verifiable, and Privacy-Preserving Internet Voting Systems"</i>, Nikos Chondros, Bingsheng Zhang, Thomas Zacharias, Panos Diamantopoulos, <b>Stathis Maneas</b>, Christos Patsonakis, Alex Delis, Aggelos Kiayias, Mema Roussopoulos, Computers & Security, 2019.<br/>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0167404818310290" target="_blank">Paper</a>]
-      [<a href="/files/bibtex_CompSecurity19">Bibtex</a>]
-    </li>
-
-    <li>
-      <i>"The Evolution of the Hadoop Distributed File System"</i>, <b>Stathis Maneas</b>, Bianca Schroeder, in the 14th International Symposium on Frontiers of Information Systems and Network Applications (FINA) in conjunction with the 32nd International Conference on Advanced Information Networking and Applications (WAINA), 2018.<br/>
-      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418050" target="_blank">Paper</a>]
-      [<a href="/files/bibtex_waina18">Bibtex</a>]
     </li>
 
     <li>
@@ -86,6 +80,26 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
       Our open-source software can be downloaded from <a href="https://github.com/dsg-di/" target="_blank">here</a>.
     </li>
   </ul>
+</div>
+
+<hr>
+
+<a name="talks"></a>
+<h1>Selected Talks</h1>
+<div id="custom-text-style">
+<ul>
+  <li>
+    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, USENIX Conference on File and Storage Technologies (FAST), 2020.
+  </li>
+
+  <li>
+    <i>"Evaluating File System Reliability on Solid State Drives"</i>, USENIX Annual Technical Conference (ATC), 2019.
+  </li>
+
+  <li>
+    <i>"A study of NAND/SSD Usage and Reliability in Large Scale Enterprise Storage deployments"</i>, NetApp University talk, 2019.
+  </li>
+</ul>
 </div>
 
 <hr>
