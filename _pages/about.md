@@ -50,7 +50,7 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
     </li>
 
     <li>
-      <i>"The Reliability of Modern File Systems in the face of SSD Errors"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, to appear in the ACM Transactions on Storage (TOS), 2020. <b><font color="red">Invited Publication!</font></b><br/>
+      <i>"The Reliability of Modern File Systems in the face of SSD Errors"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, ACM Transactions on Storage (TOS), 16(1), March 2020. <b><font color="red">Invited Publication!</font></b><br/>
     </li>
 
     <li>
