@@ -46,17 +46,30 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h2>Selected Publications</h2>
   <ul>
     <li>
-      <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in USENIX ;login:, 2020. <b><font color="red">Invited Publication!</font></b><br/>
+      <i>"Reliability of SSDs in Enterprise Storage Systems: A Large Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in ACM Transactions on Storage (TOS). <b><font color="red">Invited Publication!</font></b><br/>
+    </li>
+
+    <li>
+      <i>"On Achieving Interactive Consistency in Real-world Distributed Systems"</i>, <b>Stathis Maneas</b>, Nikos Chondros, Panos Diamantopoulos, Christos Patsonakis, Mema Roussopoulos, Journal of Parallel and Distributed Computing (JPDC), September 2020.<br/>
+      [<a href="http://www.sciencedirect.com/science/article/pii/S0743731520303713" target="_blank">Paper</a>]
+      [<a href="/files/bibtex_jpdc20">Bibtex</a>]<br/>
+    </li>
+
+    <li>
+      <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, USENIX ;login:, Summer 2020 issue. <b><font color="red">Invited Publication!</font></b><br/>
+      [<a href="https://www.usenix.org/publications/login/summer2020/maneas" target="_blank">Paper</a>]
     </li>
 
     <li>
       <i>"The Reliability of Modern File Systems in the face of SSD Errors"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, ACM Transactions on Storage (TOS), 16(1), March 2020. <b><font color="red">Invited Publication!</font></b><br/>
+      [<a href="https://dl.acm.org/doi/10.1145/3375553" target="_blank">Paper</a>]
+      [<a href="/files/bibtex_tos20a">Bibtex</a>]<br/>
     </li>
 
     <li>
       <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, in the 18th USENIX Conference on File and Storage Technologies (FAST '20), 2020. <b><font color="red">Best Paper Award!</font></b> (Acc. Rate: 16.7%)<br/>
       [<a href="https://www.usenix.org/conference/fast20/presentation/maneas" target="_blank">Paper</a>]
-      [<a href="/files/bibtex_fast2020">Bibtex</a>]<br/><br/>
+      [<a href="/files/bibtex_fast20">Bibtex</a>]<br/><br/>
       Article on ZDNet by Robin Harris: <a href="https://www.zdnet.com/article/ssd-reliability-in-the-enterprise/" target="_blank">SSD reliability in the enterprise: This survey yields a few surprises</a>.
     </li>
 
@@ -140,7 +153,7 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
     <b>CSC209H: Software Tools and Systems Programming.</b><br/>
     Fall 2015, 2016, 2017, 2018, 2019<br/>
     Winter 2016 (Double TAship), 2018, 2019, 2020<br/>
-    Summer 2018, 2019<br/>
+    Summer 2018, 2019, 2020<br/>
   </li>
   <li>
     <b>CSC469H/CSC2208H: Operating Systems Design and Implementation.</b><br/>

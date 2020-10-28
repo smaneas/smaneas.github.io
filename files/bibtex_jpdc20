@@ -1,0 +1,10 @@
+@article{maneas2020jpdc,
+  title = "{On achieving interactive consistency in real-world distributed systems}",
+  journal = "Journal of Parallel and Distributed Computing",
+  year = "2020",
+  issn = "0743-7315",
+  doi = "https://doi.org/10.1016/j.jpdc.2020.09.010",
+  url = "http://www.sciencedirect.com/science/article/pii/S0743731520303713",
+  author = "Stathis Maneas and Nikos Chondros and Panos Diamantopoulos and Christos Patsonakis and Mema Roussopoulos",
+  keywords = "Interactive consistency, Asynchronous, Consensus, Agreement, Byzantine fault tolerance",
+}
