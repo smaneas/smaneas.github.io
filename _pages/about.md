@@ -11,6 +11,8 @@ redirect_from:
 <div id="custom-text-style">
 <p>I am a PhD Candidate in the <a href="https://web.cs.toronto.edu/" target="_blank">Department of Computer Science</a> at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am a member of the <a href="http://csng.cs.toronto.edu/index.php" target="_blank">Computer Systems and Networks group</a>, and my advisor is <a href="https://www.cs.utoronto.ca/~bianca/" target="_blank">Professor Bianca Schroeder</a>.</p>
 
+<p>I started as an intern at NetApp in January 2022!</p>
+
 <p>My research interests include the design and implementation of computer systems, especially storage and file systems, and distributed systems. My current research focuses on the reliability aspect of systems.</p>
 
 <h2>Contact Info</h2>
@@ -46,11 +48,20 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h2>Selected Publications</h2>
   <ul>
     <li>
-      <i>"Reliability of SSDs in Enterprise Storage Systems: A Large Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in ACM Transactions on Storage (TOS). <b><font color="red">Invited Publication!</font></b><br/>
+      <i>"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in the 20th USENIX Conference on File and Storage Technologies (FAST '22), 2022. (Acc. Rate: 21.54%)<br/>
+      [<a href="https://www.usenix.org/conference/fast22/presentation/maneas" target="_blank">Paper</a>]
+      [<a href="/files/bibtex_fast22">Bibtex</a>]<br/>
     </li>
 
     <li>
-      <i>"On Achieving Interactive Consistency in Real-world Distributed Systems"</i>, <b>Stathis Maneas</b>, Nikos Chondros, Panos Diamantopoulos, Christos Patsonakis, Mema Roussopoulos, Journal of Parallel and Distributed Computing (JPDC), September 2020.<br/>
+      <i>"Reliability of SSDs in Enterprise Storage Systems: A Large Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, ACM Transactions on Storage (TOS), February 2021.<br/>
+      <b><font color="red">Invited Publication!</font></b><br/>
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3423088" target="_blank">Paper</a>]
+      [<a href="/files/bibtex_tos21">Bibtex</a>]<br/>
+    </li>
+
+    <li>
+      <i>"On Achieving Interactive Consistency in Real-world Distributed Systems"</i>, <b>Stathis Maneas</b>, Nikos Chondros, Panos Diamantopoulos, Christos Patsonakis, Mema Roussopoulos, Journal of Parallel and Distributed Computing (JPDC), January 2021.<br/>
       [<a href="http://www.sciencedirect.com/science/article/pii/S0743731520303713" target="_blank">Paper</a>]
       [<a href="/files/bibtex_jpdc20">Bibtex</a>]<br/>
     </li>
@@ -102,11 +113,15 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <div id="custom-text-style">
 <ul>
   <li>
-    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, USENIX Conference on File and Storage Technologies (FAST), 2020.
+    <i>"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study"</i>, USENIX Conference on File and Storage Technologies (FAST '22), 2022.
   </li>
 
   <li>
-    <i>"Evaluating File System Reliability on Solid State Drives"</i>, USENIX Annual Technical Conference (ATC), 2019.
+    <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, USENIX Conference on File and Storage Technologies (FAST '20), 2020.
+  </li>
+
+  <li>
+    <i>"Evaluating File System Reliability on Solid State Drives"</i>, USENIX Annual Technical Conference (ATC '19), 2019.
   </li>
 
   <li>
@@ -121,6 +136,10 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h1>Employment</h1>
 <div id="custom-text-style">
 <ul>
+  <li>
+    <b>Intern</b> (January 2022 - Present)<br/>
+    NetApp.
+  </li>
   <li>
     <b>Graduate Research Assistant</b> (September 2015 - Present)<br/>
     Computer Systems and Networks Group<br/>
@@ -152,7 +171,7 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
   <li>
     <b>CSC209H: Software Tools and Systems Programming.</b><br/>
     Fall 2015, 2016, 2017, 2018, 2019<br/>
-    Winter 2016 (Double TAship), 2018, 2019, 2020<br/>
+    Winter 2016 (Double TAship), 2018, 2019, 2020, 2021<br/>
     Summer 2018, 2019, 2020<br/>
   </li>
   <li>

@@ -1,0 +1,10 @@
+@inproceedings{ManeasFAST22,
+  title = {{Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study}},
+  author = {Stathis Maneas and Kaveh Mahdaviani and Tim Emami and Bianca Schroeder},
+  year = 2022,
+  month = {feb},
+  booktitle = {Proceedings of the 20th USENIX Conference on File and Storage Technologies ({FAST} '22)},
+  publisher = {USENIX Association},
+  address = {Santa Clara, CA},
+  url = {https://www.usenix.org/conference/fast22/presentation/maneas}
+}

@@ -1,0 +1,18 @@
+@article{ManeasTOS2021,
+  title = {{Reliability of SSDs in Enterprise Storage Systems: A Large-Scale Field Study}},
+  author = {Maneas, Stathis and Mahdaviani, Kaveh and Emami, Tim and Schroeder, Bianca},
+  year = 2021,
+  month = jan,
+  issue_date = {February 2021},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = 17,
+  number = 1,
+  issn = {1553-3077},
+  url = {https://doi.org/10.1145/3423088},
+  doi = {10.1145/3423088},
+  journal = {ACM Transactions on Storage (TOS)},
+  articleno = 3,
+  numpages = 27,
+  keywords = {reliability, statistical analysis, Solid-state drives, enterprise storage systems, field study}
+}
