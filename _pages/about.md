@@ -11,16 +11,12 @@ redirect_from:
 <div id="custom-text-style">
 <p>I am a PhD Candidate in the <a href="https://web.cs.toronto.edu/" target="_blank">Department of Computer Science</a> at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>. I am a member of the <a href="http://csng.cs.toronto.edu/index.php" target="_blank">Computer Systems and Networks group</a>, and my advisor is <a href="https://www.cs.utoronto.ca/~bianca/" target="_blank">Professor Bianca Schroeder</a>.</p>
 
-<p>I started as an intern at NetApp in January 2022!</p>
+<p>I started as a Performance Analyst Engineer at NetApp in September 2022!</p>
 
-<p>My research interests include the design and implementation of computer systems, especially storage and file systems, and distributed systems. My current research focuses on the reliability aspect of systems.</p>
+<p>My research interests include the design and implementation of computer systems, especially storage and file systems, and distributed systems. My current research focuses on the reliability aspect of systems, along with their performance characteristics.</p>
 
 <h2>Contact Info</h2>
-Bahen Centre for Information Technology<br/>
-Room 5214<br/>
-40 St. George Street<br/>
-Toronto, ON, M5S2E4, Canada<br/>
-<i>Email:</i> smaneas [at] cs [dot] toronto [dot] edu
+<b>Email:</b> <i>smaneas</i> [at] <i>gmail</i> [dot] <i>com</i>
 </div>
 
 <hr>
@@ -43,16 +39,21 @@ Toronto, ON, M5S2E4, Canada<br/>
 <a name="publications"></a>
 <h1>Publications</h1>
 <div id="custom-text-style">
-Full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
+My full list of publications is available on <a href="https://scholar.google.com/citations?user=dFSJQHYAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 <h2>Selected Publications</h2>
+
+<b>2022</b>
   <ul>
     <li>
       <i>"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, to appear in the 20th USENIX Conference on File and Storage Technologies (FAST '22), 2022. (Acc. Rate: 21.54%)<br/>
       [<a href="https://www.usenix.org/conference/fast22/presentation/maneas" target="_blank">Paper</a>]
       [<a href="/files/bibtex_fast22">Bibtex</a>]<br/>
     </li>
+  </ul>
 
+<b>2021</b>
+  <ul>
     <li>
       <i>"Reliability of SSDs in Enterprise Storage Systems: A Large Scale Field Study"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, ACM Transactions on Storage (TOS), February 2021.<br/>
       <b><font color="red">Invited Publication!</font></b><br/>
@@ -65,7 +66,10 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
       [<a href="http://www.sciencedirect.com/science/article/pii/S0743731520303713" target="_blank">Paper</a>]
       [<a href="/files/bibtex_jpdc20">Bibtex</a>]<br/>
     </li>
+  </ul>
 
+<b>2020</b>
+  <ul>
     <li>
       <i>"A Study of SSD Reliability in Large Scale Enterprise Storage Deployments"</i>, <b>Stathis Maneas</b>, Kaveh Mahdaviani, Tim Emami, Bianca Schroeder, USENIX ;login:, Summer 2020 issue. <b><font color="red">Invited Publication!</font></b><br/>
       [<a href="https://www.usenix.org/publications/login/summer2020/maneas" target="_blank">Paper</a>]
@@ -83,20 +87,29 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
       [<a href="/files/bibtex_fast20">Bibtex</a>]<br/><br/>
       Article on ZDNet by Robin Harris: <a href="https://www.zdnet.com/article/ssd-reliability-in-the-enterprise/" target="_blank">SSD reliability in the enterprise: This survey yields a few surprises</a>.
     </li>
+  </ul>
 
+<b>2019</b>
+  <ul>
     <li>
       <i>"Evaluating File System Reliability on Solid State Drives"</i>, Shehbaz Jaffer, <b>Stathis Maneas</b>, Andy Hwang, Bianca Schroeder, USENIX Annual Technical Conference (ATC '19), 2019. (Acc. Rate: 19.9%)<br/>
       [<a href="https://www.usenix.org/conference/atc19/presentation/jaffer" target="_blank">Paper</a>]
       [<a href="/files/bibtex_atc19">Bibtex</a>]<br/><br/>
       Our device mapper module can be downloaded from <a href="https://github.com/uoftsystems/dm-inject" target="_blank">here</a>.
     </li>
+  </ul>
 
+<b>2016</b>
+  <ul>
     <li>
       <i>"D-DEMOS: A Distributed, End-to-end Verifiable, Internet Voting system"</i>, Nikos Chondros, Bingsheng Zhang, Thomas Zacharias, Panos Diamantopoulos, <b>Stathis Maneas</b>, Christos Patsonakis, Alex Delis, Aggelos Kiayias, Mema Roussopoulos, in the Proceedings of the 36th IEEE International Conference on Distributed Computing Systems (ICDCS), 2016.<br/>
       [<a href="https://ieeexplore.ieee.org/document/7536569" target="_blank">Paper</a>]
       [<a href="/files/bibtex_icdcs16">Bibtex</a>]
     </li>
+  </ul>
 
+<b>2015</b>
+  <ul>
     <li>
       <i>"Interactive Consistency in practical, mostly-asynchronous systems"</i>, Panos Diamantopoulos, <b>Stathis Maneas</b>, Christos Patsonakis, Nikos Chondros, Mema Roussopoulos, in the Proceedings of the 21st IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2015.<br/>
       [<a href="https://ieeexplore.ieee.org/document/7384362" target="_blank">Paper</a>]
@@ -112,6 +125,10 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <h1>Selected Talks</h1>
 <div id="custom-text-style">
 <ul>
+  <li>
+    <i>"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study"</i>, NetApp TD Forum, 2022.
+  </li>
+
   <li>
     <i>"Operational Characteristics of SSDs in Enterprise Storage Systems: A Large-Scale Field Study"</i>, USENIX Conference on File and Storage Technologies (FAST '22), 2022.
   </li>
@@ -137,25 +154,29 @@ Full list of publications is available on <a href="https://scholar.google.com/ci
 <div id="custom-text-style">
 <ul>
   <li>
-    <b>Intern</b> (January 2022 - Present)<br/>
+    <b>Performance Analyst Engineer</b> (Sep 2022 - Present)<br/>
     NetApp.
   </li>
   <li>
-    <b>Graduate Research Assistant</b> (September 2015 - Present)<br/>
+    <b>Intern</b> (Jan 2022 - Jul 2022)<br/>
+    NetApp.
+  </li>
+  <li>
+    <b>Graduate Research Assistant</b> (Sep 2015 - Present)<br/>
     Computer Systems and Networks Group<br/>
     Dept. of Computer Science, University of Toronto.
   </li>
   <li>
-    <b>Graduate Teaching Assistant (TA)</b> (September 2015 - Present)<br/>
+    <b>Graduate Teaching Assistant (TA)</b> (Sep 2015 - Apr 2021)<br/>
     Dept. of Computer Science, University of Toronto.
   </li>
   <li>
-    <b>Research Assistant</b> (August 2013 - July 2015)<br/>
+    <b>Research Assistant</b> (Aug 2013 - Jul 2015)<br/>
     ERC project: <i>"Protecting and Preserving Human Knowledge for Posterity"</i><br/>
     National and Kapodistrian University of Athens.
   </li>
   <li>
-    <b>Software Engineer</b> (September 2012 - May 2013)<br/>
+    <b>Software Engineer</b> (Sep 2012 - May 2013)<br/>
     National and Kapodistrian University of Athens.
   </li>
 </ul>
