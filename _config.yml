@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stathis Maneas"
 title_separator          : "-"
 name                     : &name "Sotirios Efstathios (Stathis) Maneas"
-description              : &description "PhD Candidate at the University of Toronto"
+description              : &description "Performance Analyst"
 url                      : https://smaneas.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smaneas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stathis Maneas"
   avatar           : "myphoto.jpg"
-  bio              : "PhD Candidate &<br/>Performance Analyst Engineer"
+  bio              : "Performance Analyst"
   location         :
   employer         :
   pubmed           :
