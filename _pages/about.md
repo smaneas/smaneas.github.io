@@ -164,7 +164,7 @@ My full list of publications is available on <a href="https://scholar.google.com
     NetApp.
   </li>
   <li>
-    <b>Graduate Research Assistant</b> (Sep 2015 - Present)<br/>
+    <b>Graduate Research Assistant</b> (Sep 2015 - Aug 2022)<br/>
     Computer Systems and Networks Group<br/>
     Dept. of Computer Science, University of Toronto.
   </li>
